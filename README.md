@@ -104,7 +104,7 @@ The dataset contains sales transaction records including:
 - Category & Sub-Category Filters
 - Sales & Profit Treemap
 - Segment-wise Quantity Distribution
-- Sales vs Quantity Bubble Chart
+- Sales vs Quantity Scatter Chart
 - Quarterly Profit Trend
 - Quarterly Sales Trend
 
